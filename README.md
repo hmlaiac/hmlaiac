@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hmlaiac
 - 👀 I’m interested in algorithm design, aritificial intelligence and robotics
 - 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on web development or AI project
+- 💞️ I’m looking to collaborate on web or AI project
 - 📫 How to reach me: 
   - My personal Webpage: http://www.andiogame.com
   - you can contact me with my email: hmlaiac@connect.ust.hk
